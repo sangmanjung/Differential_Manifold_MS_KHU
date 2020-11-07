@@ -1,6 +1,6 @@
 ### Differential_Manifold_MS_KHU
   
-- Homeworks for differential manifolds (graduate school in KHU)
+- Homeworks for differential manifolds (graduate school of KHU)
 
 #### Instructor
 - Prof. Jongmin Han
